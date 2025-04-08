@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "title": "Vintage Leica M3 Camera",
+        "description": "A classic rangefinder camera in excellent condition from 1954",
+        "currentBidPrice": 2500.0,
+        "timeLeft": "2 days left",
+        "bidsCount": 8,
+        "image": "https://ibb.co.com/Lh1JqNkh"
+    },
+    {
+        "id": "2",
+        "title": "1967 Gibson SG Standard Electric Guitar",
+        "description": "Rare vintage guitar with original cherry finish and PAF pickups",
+        "currentBidPrice": 3800.0,
+        "timeLeft": "3 days left",
+        "bidsCount": 12,
+        "image": "https://ibb.co.com/1tFQZ7bG"
+    },
+    {
+        "id": "3",
+        "title": "Original Apple Macintosh 128K",
+        "description": "Working condition original Macintosh from 1984 with keyboard and mouse",
+        "currentBidPrice": 5200.0,
+        "timeLeft": "1 day left",
+        "bidsCount": 15,
+        "image": "https://ibb.co.com/fG4cyBth"
+    },
+    {
+        "id": "4",
+        "title": "Rolex Submariner 1680",
+        "description": "Vintage 1970s Rolex Submariner with original box and papers",
+        "currentBidPrice": 8500.0,
+        "timeLeft": "2 days left",
+        "bidsCount": 23,
+        "image": "https://ibb.co.com/WNJDq1B9"
+    },
+    {
+        "id": "5",
+        "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+        "description": "Rare first edition in original dust jacket from 1925",
+        "currentBidPrice": 9500.0,
+        "timeLeft": "4 days left",
+        "bidsCount": 7,
+        "image": "https://ibb.co.com/nsc5BPmp"
+    },
+    {
+        "id": "6",
+        "title": "1957 Fender Stratocaster Sunburst Guitar",
+        "description": "Extremely rare pre-CBS Stratocaster in excellent condition",
+        "currentBidPrice": 12000.0,
+        "timeLeft": "2 days left",
+        "bidsCount": 18,
+        "image": "https://ibb.co.com/GvzBn5XQ"
+    }
+]
