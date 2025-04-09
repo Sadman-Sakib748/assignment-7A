@@ -33,8 +33,11 @@ const NavBer = () => {
             <span className="sr-only">Notifications</span>
           </button>
           <button className="rounded-full p-1 text-gray-500 hover:bg-gray-100 hover:text-gray-700">
-            <User className="h-5 w-5" />
-            <span className="sr-only">Profile</span>
+            <div className="avatar">
+              <div className="w-10 ">
+                <img className='rounded-full' src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+              </div>
+            </div>
           </button>
         </div>
       </div>

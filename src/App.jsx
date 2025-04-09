@@ -6,7 +6,7 @@ import Pages from './Components/Pages/Pages';
 
 const App = () => {
   return (
-    <div>
+    <div className='max-w-7xl mx-auto'>
       <NavBer></NavBer>
       <Banner></Banner>
       <Pages></Pages>

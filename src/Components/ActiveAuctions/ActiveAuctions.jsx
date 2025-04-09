@@ -25,8 +25,8 @@ const ActiveAuctions = ({ items, favoritedItemIds, onAddToFavorites }) => {
                                 <td className="px-6 py-4">
                                     <div className="flex items-center">
                                         <img
-                                            src={item.image || "/placeholder.svg"}
-                                            alt={item.title}
+                                            src={item.image }
+                                            alt=""
                                             className="w-16 h-16 object-cover rounded-md mr-4"
                                         />
                                         <div>
